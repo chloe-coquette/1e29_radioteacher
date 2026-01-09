@@ -1,5 +1,6 @@
 {
     "name": "1E29_RadioTeacher",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
